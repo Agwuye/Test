@@ -49,6 +49,7 @@ a{
   border:1px solid #14152B;
   padding: 10px 20px 10px 20px;
   border-radius: 30px;
+  color:#14152B;
 }
 
 .image{
@@ -78,7 +79,6 @@ img{
   align-items: center;
   gap: 10px;
   margin-bottom: 40px;
-  color:#14152B ;
 }
 
 #ul li::before {
